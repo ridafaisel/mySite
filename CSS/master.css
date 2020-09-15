@@ -49,7 +49,7 @@ hr{
   width: 50%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 100px;
+  margin-top: 6.25rem;
   margin-bottom: 100px;
     text-align: left;
     line-height: 2;
@@ -104,6 +104,13 @@ bottom 18.75rem;
   float:right;
   margin-left: 2rem;
 }
+.skill3{
+
+
+  width:20%;
+  float:right;
+  margin-left: 2rem;
+}
 
 
 .btn {
@@ -133,16 +140,16 @@ bottom 18.75rem;
 
 .footer-link{
   font-family: 'Montserrat', sans-serif;
-  color: #66bfbf;
+  color: #00a1ab;
   font-weight: normal;
    margin-left: 10px;
    margin-right: 10px;
 
-}
-.footer-link:link{
-  text-decoration: none;
-  color:#00a1ab;
-}
+ }
+ .footer-link:link{
+   text-decoration: none;
+   color:#00a1ab;
+ }
 a:hover{
   color:#EAF6F6;
 
